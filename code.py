@@ -11,5 +11,7 @@ print(a+b+56)
 
 print(a+b+4325)
 
+print(34554=7867)
+
 
 # this is a python code for hello world
